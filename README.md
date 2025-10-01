@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/deepika0211/Leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/deepika0211/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/deepika0211/Leetcode/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/deepika0211/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
