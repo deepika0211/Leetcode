@@ -1,5 +1,7 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        both = zip(heights,names)
-        ans=sorted(both,reverse=True)
-        return [name for i, name in ans]
+        both={}
+        for i in range(len(names)):
+            both[heights[i]]=names[i]
+        sorted_heights = sorted(heights, reverse=True)
+        return [both[h] for h in sorted_heights]
