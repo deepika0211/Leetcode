@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/deepika0211/Leetcode/tree/master/0584-find-customer-referee) |
+| [1148-article-views-i](https://github.com/deepika0211/Leetcode/tree/master/1148-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/deepika0211/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
 |  |
