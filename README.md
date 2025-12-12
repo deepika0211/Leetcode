@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/deepika0211/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/deepika0211/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/deepika0211/Leetcode/tree/master/1642-water-bottles) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deepika0211/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/deepika0211/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/deepika0211/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
