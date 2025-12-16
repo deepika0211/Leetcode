@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/deepika0211/Leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/deepika0211/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/deepika0211/Leetcode/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/deepika0211/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepika0211/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deepika0211/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepika0211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/deepika0211/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/deepika0211/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deepika0211/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
