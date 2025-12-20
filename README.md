@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/deepika0211/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/deepika0211/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/deepika0211/Leetcode/tree/master/0724-find-pivot-index) |
+| [0944-delete-columns-to-make-sorted](https://github.com/deepika0211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/deepika0211/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepika0211/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/deepika0211/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/deepika0211/Leetcode/tree/master/0412-fizz-buzz) |
+| [0944-delete-columns-to-make-sorted](https://github.com/deepika0211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [2211-count-collisions-on-a-road](https://github.com/deepika0211/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
 | [3606-coupon-code-validator](https://github.com/deepika0211/Leetcode/tree/master/3606-coupon-code-validator) |
