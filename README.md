@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/deepika0211/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepika0211/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
+| [3074-apple-redistribution-into-boxes](https://github.com/deepika0211/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deepika0211/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deepika0211/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/deepika0211/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/deepika0211/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/deepika0211/Leetcode/tree/master/0414-third-maximum-number) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
+| [3074-apple-redistribution-into-boxes](https://github.com/deepika0211/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/deepika0211/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/deepika0211/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deepika0211/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/deepika0211/Leetcode/tree/master/0226-invert-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/deepika0211/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
