@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepika0211/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/deepika0211/Leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepika0211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepika0211/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepika0211/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/deepika0211/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/deepika0211/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/deepika0211/Leetcode/tree/master/0392-is-subsequence) |
@@ -159,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deepika0211/Leetcode/tree/master/0011-container-with-most-water) |
 | [3074-apple-redistribution-into-boxes](https://github.com/deepika0211/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
