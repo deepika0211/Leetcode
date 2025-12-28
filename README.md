@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/deepika0211/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/deepika0211/Leetcode/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/deepika0211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepika0211/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deepika0211/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/deepika0211/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/deepika0211/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepika0211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/deepika0211/Leetcode/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepika0211/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Design
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepika0211/Leetcode/tree/master/0011-container-with-most-water) |
 | [3074-apple-redistribution-into-boxes](https://github.com/deepika0211/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepika0211/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
