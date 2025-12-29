@@ -8,9 +8,9 @@ class Solution:
         prev = None
         curr = head
         while curr:
-            nxt = curr.next
+            nextnode = curr.next
             curr.next = prev
             prev = curr
-            curr = nxt
+            curr = nextnode
         return prev
         
