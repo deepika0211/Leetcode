@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/deepika0211/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/deepika0211/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/deepika0211/Leetcode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/deepika0211/Leetcode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/deepika0211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [2211-count-collisions-on-a-road](https://github.com/deepika0211/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/deepika0211/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/deepika0211/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/deepika0211/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
