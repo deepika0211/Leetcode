@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepika0211/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/deepika0211/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/deepika0211/Leetcode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepika0211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepika0211/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/deepika0211/Leetcode/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/deepika0211/Leetcode/tree/master/0066-plus-one) |
 | [0319-bulb-switcher](https://github.com/deepika0211/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/deepika0211/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/deepika0211/Leetcode/tree/master/1642-water-bottles) |
