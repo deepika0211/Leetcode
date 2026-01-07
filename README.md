@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/deepika0211/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/deepika0211/Leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepika0211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepika0211/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deepika0211/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/deepika0211/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/deepika0211/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepika0211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/deepika0211/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/deepika0211/Leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/deepika0211/Leetcode/tree/master/0796-rotate-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepika0211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepika0211/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/deepika0211/Leetcode/tree/master/0796-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepika0211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
