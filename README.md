@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/deepika0211/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/deepika0211/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/deepika0211/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/deepika0211/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/deepika0211/Leetcode/tree/master/1642-water-bottles) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deepika0211/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/deepika0211/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepika0211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/deepika0211/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
