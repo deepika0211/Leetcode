@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepika0211/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepika0211/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/deepika0211/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/deepika0211/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deepika0211/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deepika0211/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/deepika0211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepika0211/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/deepika0211/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/deepika0211/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/deepika0211/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/deepika0211/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepika0211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepika0211/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/deepika0211/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/deepika0211/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Interactive
 |  |
