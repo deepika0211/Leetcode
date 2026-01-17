@@ -8,12 +8,11 @@ class Solution(object):
             re = prefix % k
             if re < 0:
                 re += k
-            if re < 0:
-                re += k
             if re in r:
                 count += r[re]
                 r[re] += 1
             else:
                 r[re] = 1
         return count
+        
         
