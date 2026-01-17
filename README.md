@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/deepika0211/Leetcode/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/deepika0211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepika0211/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/deepika0211/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deepika0211/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deepika0211/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/deepika0211/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deepika0211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepika0211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepika0211/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/deepika0211/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deepika0211/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/deepika0211/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deepika0211/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/deepika0211/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/deepika0211/Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/deepika0211/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/deepika0211/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/deepika0211/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/deepika0211/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
