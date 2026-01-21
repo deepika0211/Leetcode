@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/deepika0211/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/deepika0211/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/deepika0211/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/deepika0211/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/deepika0211/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/deepika0211/Leetcode/tree/master/0412-fizz-buzz) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepika0211/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/deepika0211/Leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/deepika0211/Leetcode/tree/master/0392-is-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepika0211/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Tree
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/deepika0211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepika0211/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
