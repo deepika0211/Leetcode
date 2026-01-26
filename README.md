@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/deepika0211/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/deepika0211/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/deepika0211/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/deepika0211/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepika0211/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepika0211/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deepika0211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/deepika0211/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/deepika0211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/deepika0211/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/deepika0211/Leetcode/tree/master/2502-sort-the-people) |
 | [3074-apple-redistribution-into-boxes](https://github.com/deepika0211/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/deepika0211/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepika0211/Leetcode/tree/master/0011-container-with-most-water) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/deepika0211/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3074-apple-redistribution-into-boxes](https://github.com/deepika0211/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deepika0211/Leetcode/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/deepika0211/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
